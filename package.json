@@ -1,0 +1,16 @@
+{
+  "name": "it-clab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IT Club — Құлан АЖК landing (static)",
+  "scripts": {
+    "start": "serve . --listen tcp://0.0.0.0:$PORT",
+    "dev": "serve . -l 3000"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

@@ -2,7 +2,9 @@
 
 Құлан АЖК IT Club лендингі: hex фон, hero, жобалар, клубқа қосылу формасы.
 
-**Live:** [https://mastermt1990-ai.github.io/it-clab/](https://mastermt1990-ai.github.io/it-clab/)
+**GitHub Pages:** [https://mastermt1990-ai.github.io/it-clab/](https://mastermt1990-ai.github.io/it-clab/)
+
+**Railway:** [railway.com](https://railway.com/) арқылы деплой (төмендегі нұсқау)
 
 ## Қарау
 
@@ -22,3 +24,20 @@
 1. Repo: `it-clab`
 2. Settings → Pages → Source: **Deploy from a branch**
 3. Branch: `main`, folder: `/ (root)`
+
+## Railway деплой
+
+1. [railway.com](https://railway.com/) → тіркелу / кіру
+2. **New Project** → **Deploy from GitHub repo**
+3. `mastermt1990-ai/it-clab` репосын таңдаңыз
+4. Railway `package.json` және `railway.toml` бойынша автоматты build жасайды
+5. Сервисте **Settings → Networking → Generate Domain** басып, public URL алыңыз
+
+Локальді тексеру:
+
+```bash
+npm install
+npm run dev
+```
+
+Содан кейін `http://localhost:3000` ашыңыз.
