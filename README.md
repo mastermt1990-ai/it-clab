@@ -2,9 +2,9 @@
 
 Құлан АЖК IT Club лендингі: hex фон, hero, жобалар, клубқа қосылу формасы.
 
-**GitHub Pages:** [https://mastermt1990-ai.github.io/it-clab/](https://mastermt1990-ai.github.io/it-clab/)
+**Сайт (GitHub Pages):** [https://mastermt1990-ai.github.io/it-clab/](https://mastermt1990-ai.github.io/it-clab/)
 
-**Railway:** [railway.com](https://railway.com/) арқылы деплой (төмендегі нұсқау)
+**Railway deploy (бір рет басыңыз):** [railway.com/new/github?repo=mastermt1990-ai/it-clab](https://railway.com/new/github?repo=mastermt1990-ai/it-clab) → содан кейін **Generate Domain** → live URL
 
 ## Қарау
 
