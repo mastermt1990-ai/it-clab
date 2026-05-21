@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#0f2744" stroke="#22d3ee" stroke-width="2"/>
+  <path d="M40 18 L48 32 L64 34 L52 46 L56 62 L40 52 L24 62 L28 46 L16 34 L32 32 Z" fill="#22c55e" opacity="0.9"/>
+  <text x="40" y="72" text-anchor="middle" fill="#94a3b8" font-size="6" font-family="Arial,sans-serif" font-weight="700">š° </text>
+</svg>
